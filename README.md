@@ -114,6 +114,12 @@ and compress the code(the uglify-js package will restore what we have converted,
 
 ## Usage
 
+first, import the package
+
+```js
+var str2hex = require('gulp-str2hex');
+```
+
 use with gulp
 
 ```js

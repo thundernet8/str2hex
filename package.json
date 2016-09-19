@@ -1,0 +1,34 @@
+{
+  "name": "gulp-str2hex",
+  "version": "0.0.2",
+  "description": "convert string(include Chinese) to hex string(Chinese to unicode) for confusion",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thundernet8/str2hex.git"
+  },
+  "keywords": [
+    "Confusion",
+    "Chinese",
+    "Unicode",
+    "Hex"
+  ],
+  "author": "WuXueqian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thundernet8/str2hex/issues"
+  },
+  "homepage": "https://github.com/thundernet8/str2hex#readme",
+  "dependencies": {
+    "ast-types": "^0.9.0",
+    "escodegen": "^1.8.1",
+    "esprima": "^3.0.0",
+    "estraverse": "^4.2.0",
+    "through2": "^2.0.1"
+  },
+  "_from": "gulp-str2hex@0.0.2",
+  "_resolved": "http://registry.npm.taobao.org/gulp-str2hex/download/gulp-str2hex-0.0.2.tgz"
+}
